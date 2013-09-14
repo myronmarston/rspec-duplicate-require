@@ -1,1 +1,1 @@
-puts "    spec_helper"
+puts "    #{__FILE__}"

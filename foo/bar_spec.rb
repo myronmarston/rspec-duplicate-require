@@ -1,2 +1,2 @@
-puts "  bar_spec"
+puts "  #{__FILE__}"
 require_relative 'spec_helper'
